@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
 ![License](https://img.shields.io/badge/License-MIT-<blue>)
 
